@@ -1,0 +1,71 @@
+body{
+    background-image: url(https://wallpaper.dog/large/5555199.jpg);
+}
+.bigbox{
+    width: 800px;
+    height: 600px;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+.b1{
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    color: red;
+    background-color: blue;
+    border-radius: 10px;
+    border: 1px solid red;
+    transition: 1.5s;
+}
+.b1:hover{
+    
+    background-color: limegreen;
+    font-size: 30px;
+}
+.b2{
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    color: red;
+    background-color: blue;
+    border-radius: 10px;
+    border: 1px solid red;
+    transition: 1.5s;  
+}
+.b2:hover{
+    
+    background-color: limegreen;
+    font-size: 30px;
+}
+.b3{
+width: 200px;
+height: 100px;
+font-size: 20px;
+color: red;
+background-color: blue;
+border-radius: 10px;
+border: 1px solid red;
+transition: 1.5s;  
+}
+.b3:hover{
+    background-color: limegreen;
+    font-size: 30px;
+}
+.home{
+    width: 150px;
+    height: 90px;
+    background-color: red;
+    color: green;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+    transition: 1.5s;
+}
+.home:hover{
+    font-size:40px;
+    background-color: aqua;
+}
+
